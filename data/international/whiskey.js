@@ -1,0 +1,16 @@
+// international/snack.js — data for international -> snack category
+window.menusPartials = window.menusPartials || {};
+window.menusPartials['international'] = window.menusPartials['international'] || {};
+window.menusPartials['international'].whiskey = [
+  { name: 'ကြက်သားတုံးချိုစပ်', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်သားမျှစ်ချိုမွှေး', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်ပင်စိမ်း', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်ခပတ်', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်သားအချောင်းထိုင်းစတိုလ်', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်သားကြက်ဥမွှေကြော်', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်တုန့်ယန်းအနှစ်ချက်', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်တောင်ပံကြော်', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်ခြောက်စပ်ကြော်', desc: '', price: '16000 MMK', img: '' },
+  { name: 'ကြက်ကချင်ချက်', desc: '', price: '16000 MMK', img: '' },
+   
+];
