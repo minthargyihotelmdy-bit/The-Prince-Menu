@@ -74,7 +74,7 @@ function renderMenu() {
     card.className = 'menu-card';
 
     const img = document.createElement('img');
-    img.src = it.img || 'https://via.placeholder.com/120x80';
+    img.src = it.img || 'images/New B g.jpg';
     img.alt = it.name || '';
 
     const info = document.createElement('div');
