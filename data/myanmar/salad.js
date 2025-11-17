@@ -5,7 +5,7 @@ window.menusPartials['myanmar'].salad = [
   { name: 'မြန်မာသနပ်အစုံသုပ်', desc: 'Small-Large', price: '9500 MMK- 12000 MMK', img: 'images/08-Salad/MTNAST.jpg' },
   { name: 'အော်စွန်းသုပ်', desc: 'Small-Large', price: '9500 MMK- 12000 MMK', img: '' },
   { name: 'ကျောက်ပွင့်သုပ်', desc: 'Small-Large', price: '9500 MMK- 12000 MMK', img: 'images/08-Salad/KPT.jpg' },
-  { name: 'ဆေးဘဲဥသုပ်', desc: 'Small-Large', price: '9500 MMK- 12000 MMK', img: '' },
+  { name: 'အဘိုးကြီးလက်ဖက်သုပ်', desc: '', price: '11000 MMK', img: '' },
   { name: 'ဆလပ်ရွက်သုပ်', desc: 'Small-Large', price: '9500 MMK- 12000 MMK', img: '' },
   { name: 'ဆေးဘဲဥသုပ်', desc: 'Small-Large', price: '9500 MMK- 12000 MMK', img: 'images/08-Salad/SBOT.jpg' },
   { name: 'ပုဇွန်အစိမ်းသုပ်', desc: 'Small-Large', price: ' 25000 MMK- 30000 MMK', img: 'images/08-Salad/PSAST.jpg' },
@@ -20,3 +20,4 @@ window.menusPartials['myanmar'].salad = [
   { name: 'ဆိတ်မျှင်ကြော်သုပ်', desc: 'Small-Large', price: '20000 MMK- 28000 MMK', img: '' },
   { name: 'ဆိတ်ထောင်းသုပ်', desc: 'Small-Large', price: '20000 MMK- 28000 MMK', img: 'images/08-Salad/STHT.jpg' },   
 ];
+
