@@ -13,5 +13,11 @@ window.menusPartials['myanmar'].chicken = [
   { name: 'ကြက်တုန့်ယန်းအနှစ်ချက်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
   { name: 'ကြက်တောင်ပံကြော်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
   { name: 'ကြက်ကချင်ချက်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
+  { name: 'ကြက်မာလာခြောက်စပ်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
+  { name: 'ကြက်ချဉ်စော်ခါးသီးချက်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
+  { name: 'ကြက်မှိုခြောက်စတူးချက်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
+  { name: 'ကြက်ပဲကော', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
+  { name: 'ကြက်ခရူဆီဂျင်းနုချက်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
    
 ];
+
