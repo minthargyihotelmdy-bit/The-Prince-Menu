@@ -8,6 +8,11 @@ window.menusPartials['myanmar'].snack = [
   { name: 'ကြက်ကောင်လုံးကြော်', desc: '', price: '40000 MMK', img: '' },
   { name: 'အော်ဂင်နစ်ကြက်ကြော်', desc: '', price: '40000 MMK', img: '' },
   { name: 'အကင်းစုံ', desc: '', price: '29000 MMK', img: '' },
-  
+  { name: 'အသားလုံးကြော် (ကြက်)', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
+  { name: 'အသားလုံးကြော် (ဝက်)', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
+  { name: 'ပင်လယ်စာကြွပ်ကြော်', desc: '', price: '33000 MMK', img: '' },
+  { name: 'ငါးရံခြောက်ဆီဆမ်း', desc: '', price: '30000 MMK', img: '' },
+  { name: 'ဝက်အူချောင်းကြော်', desc: 'Small-large', price: '16000 MMK-20000 MMK', img: '' },
 
 ];
+
