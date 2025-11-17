@@ -16,6 +16,8 @@ window.menusPartials['myanmar'].seafood = [
   { name: 'ပြည်ကြီးငါးချဉ်စပ်', desc: 'Small-Large', price: '25000 MMK-32000 MMK', img: '' },
   { name: 'ပြည်ကြီးငါးခြောက်စပ်', desc: 'Small-Large', price: '25000 MMK-32000 MMK', img: 'images/07-Seafood/PGNCS.jpg' },
   { name: 'ပြည်ကြီးငါးခရုဆီ', desc: 'Small-Large', price: '25000 MMK-32000 MMK', img: '' },
-  { name: 'ပြည်လုံးချမ်းသာ', desc: '', price: '33000 MMK', img: '' }
+  { name: 'ပြည်လုံးချမ်းသာ', desc: '', price: '33000 MMK', img: '' },
+   { name: 'မြေအိုးပင်လယ်စာပေါင်း', desc: '', price: ' 33000 MMK', img: '' },
    
 ];
+
