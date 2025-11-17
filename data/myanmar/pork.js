@@ -14,5 +14,8 @@ window.menusPartials['myanmar'].pork = [
   { name: 'ဝက်သားလုံးအချိုကြော်', desc: 'Small - Large', price: '16000 MMK-20000 MMK', img: '' },
   { name: 'ဝက်သားပြားကြော်', desc: 'Small - Large', price: '16000 MMK- 20000 MMK', img: '' },
   { name: 'ဝက်အူမချဉ်စပ်', desc: 'Small - Large', price: '20000 MMK- 25000 MMK', img: '' },
-  { name: 'ဝက်နံရိုးပေါင်းမြေအိုး', desc: 'Small - Large', price: '29000 MMK - 36000 MMK', img: '' }
+  { name: 'ဝက်နံရိုးပေါင်းမြေအိုး', desc: 'Small - Large', price: '29000 MMK - 36000 MMK', img: '' },
+  { name: 'ဝက်တောက်တောက်ကြော်', desc: 'Small - Large', price: '16000 MMK - 20000 MMK', img: '' },
+  
 ];
+
