@@ -16,9 +16,10 @@ window.menusPartials['myanmar'].soup = [
   { name: 'ယိုးဒယားဟင်းရည်(ပုဇွန်/အဏ္ဏဝါ)', desc: 'Small-Large', price: '25000 MMK-35000 MMK', img: '' },
   { name: 'ကြံမဆိုင်ဟင်းရည်(ကြက်/ဝက်/ငါး)', desc: 'Small-Large', price: '16000 MMK-20000 MMK', img: '' },
   { name: 'ကြံမဆိုင်ဟင်းရည်(ပုဇွန်/အဏ္ဏဝါ)', desc: 'Small-Large', price: '25000 MMK-35000 MMK', img: '' },
-  { name: 'တောကြက်ပေါင်းဟင်းရည်', desc: 'ကြက်လယ်သမား', price: '38000 MMK', img: '' },
+  { name: 'တောကြက်ပေါင်းဟင်းရည်', desc: 'ကြက်လယ်သမား', price: '47000 MMK', img: '' },
   { name: 'ငါးခူးလယ်သမားဟင်းရည်', desc: '', price: '15000 MMK', img: '' },
    
 ];
+
 
 
