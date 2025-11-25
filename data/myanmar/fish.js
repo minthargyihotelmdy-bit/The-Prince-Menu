@@ -5,7 +5,7 @@ window.menusPartials['myanmar'].fish = [
   { name: 'ငါးရှဉ့်မြေအိုး', desc: '', price: '20000 MMK', img: 'images/04-Fish/NSMO.jpg' },
   { name: 'ငါးအချောင်းကြော်', desc: 'Small-Large', price: '16000 MMK-20000 MMK', img: 'images/04-Fish/NACK.jpg' },
   { name: 'ငါးသံပုရာပေါင်း(ကက္ကတစ်)', desc: '', price: '35000 MMK', img: 'images/04-Fish/NTOYP.jpg' },
-  { name: 'ငါးရှဉ့်ကြက်သွန်ဖြူမွှေး', desc: 'Small-Large', price: '12000 MMK- 18000', img: '' },
+  { name: 'ငါးရှဉ့်ကြက်သွန်ဖြူမွှေး', desc: 'Small-Large', price: '12000 MMK- 18000 MMK', img: '' },
   { name: 'ငါးရှဉ့်ချဉ်စပ်', desc: 'Small-Large', price: '12000 MMK-18000 MMK', img: '' },
   { name: 'ငါးရှဉ့်ခြောက်စပ်', desc: 'Small-Large', price: '12000 MMK-18000 MMK', img: '' },
   { name: 'ငါးခူခြောက်စပ်', desc: '', price: '15000 MMK', img: '' },
@@ -23,3 +23,4 @@ window.menusPartials['myanmar'].fish = [
   { name: 'ငါးကောင်လုံး မကျီးဆော့စ်', desc: '', price: '35000 MMK', img: '' },
   { name: 'ငါးပေါင်းဆားငံစေ့ (ကက္ကတစ်)', desc: '', price: '35000 MMK', img: '' }
 ];
+
