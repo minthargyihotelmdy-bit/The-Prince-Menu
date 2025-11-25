@@ -15,5 +15,6 @@ window.menusPartials['international'].soup = [
   { name: 'Thai Soup (Chicken,Pork,Fish)', desc: 'Small-Large', price: '16000 MMK-20000 MMK', img: '' },
   { name: 'Thai Soup (Prawn,Seafood)', desc: 'Small-Large', price: '25000 MMK-35000 MMK', img: '' },
   { name: 'Preserved Mustard Soup(Chicken,Pork,Fish)', desc: 'Small-Large', price: '16000 MMK-20000 MMK', img: '' },
-  { name: 'Preserved Mustard Soup(Prawn,Seafood)', desc: 'Small-Large', price: '25000 MMK-35000 MMK', img: '' },
+  { name: 'Vermecelli Soup with Bean', desc: 'Small-Large', price: '9500 MMK-12000 MMK', img: '' },
 ];
+
