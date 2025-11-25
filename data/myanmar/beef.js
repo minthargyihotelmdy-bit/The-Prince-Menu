@@ -8,9 +8,10 @@ window.menusPartials['myanmar'].beef = [
   { name: 'အမဲသားဆီပြန်', desc: '', price: '24000 MMK', img: '' },
   { name: 'အမဲသားအာလူး', desc: '', price: '24000 MMK', img: '' },
   { name: 'အမဲသားထောင်း', desc: 'Small-Large', price: '24000 MMK-30000 MMK', img: '' },
-  { name: 'အမဲသားတုံကြော်', desc: 'Small-Large', price: '24000 MMK-30000 MMK', img: '' },
+  { name: 'အမဲသားတုံးကြော်', desc: 'Small-Large', price: '24000 MMK-30000 MMK', img: '' },
   { name: 'အမဲသားမျှင်ကြော်', desc: 'Small-Large', price: '24000 MMK-30000 MMK', img: 'images/06-beef/AMAMK.jpg' },
   { name: 'အမဲသားစွတ်ပြုတ်', desc: '', price: '24000 MMK', img: 'images/06-beef/AMTSP.jpg' },
 
  
 ];
+
