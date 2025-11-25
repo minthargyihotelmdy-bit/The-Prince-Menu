@@ -3,7 +3,7 @@ window.menusPartials = window.menusPartials || {};
 window.menusPartials['myanmar'] = window.menusPartials['myanmar'] || {};
 window.menusPartials['myanmar'].pork = [
   { name: 'ဝက်သုံးထပ်သားပေါင်း', desc: '', price: '32000 MMK', img: 'images/Snack/TTP-min.jpg' },
-  { name: 'ဝက်ပင်စိမ်း', desc: 'Small - Large', price: '16000 MMK-2000 MMK', img: 'images/03-Pork/WPS.jpg' },
+  { name: 'ဝက်ပင်စိမ်း', desc: 'Small - Large', price: '16000 MMK-20000 MMK', img: 'images/03-Pork/WPS.jpg' },
   { name: 'ဝက်နံကင်', desc: 'Small - Large', price: '36000 MMK-45000 MMK', img: 'images/03-Pork/WNK.jpg' },
   { name: 'ဝက်နံကင်ချဉ်စပ်', desc: 'Small - Large', price: '36000 MMK- 45000 MMK', img: 'images/03-Pork/WNKCS.jpg' },
   { name: 'ဝက်စတူး', desc: '', price: '36000 MMK', img: 'images/03-Pork/WST.jpg' },
@@ -18,4 +18,5 @@ window.menusPartials['myanmar'].pork = [
   { name: 'ဝက်တောက်တောက်ကြော်', desc: 'Small - Large', price: '16000 MMK - 20000 MMK', img: '' },
   
 ];
+
 
