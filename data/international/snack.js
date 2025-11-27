@@ -7,16 +7,14 @@ window.menusPartials['international'].snack = [
   { name: 'Fired Whole Chicken', desc: '', price: '32000 MMK', img: '' },
   { name: 'Steamed Chicken with Assortet Vegetable Soup', desc: '', price: '38000 MMK', img: '' },
   { name: 'Farmer Style Catfish Soup', desc: '', price: '15000 MMK', img: '' },
-  { name: 'ပြည်လုံးချမ်းသာ', desc: '', price: '33000 MMK', img: '' },
-  { name: 'အော်ဂင်နစ်ကြက်ကြော်', desc: '', price: '32000 MMK', img: '' },
-  { name: 'ရခိုင်ဝက်နံရိုး', desc: '', price: '32000 MMK', img: '' },
-  { name: 'အကင်းစုံ', desc: '', price: '29000 MMK', img: '' },
-  { name: 'ဝက်အူနုကြော်', desc: '', price: '20000 MMK', img: '' },
-  { name: 'ဝက်သုံးထပ်သားပေါင်း', desc: '', price: '32000 MMK', img: '' },
+  { name: 'Fired Organic Chicken', desc: '', price: '32000 MMK', img: '' },
+  { name: 'Fired Pork Ottel', desc: '', price: '20000 MMK', img: '' },
+  { name: 'Steamed Three Layer Pork', desc: '', price: '32000 MMK', img: '' },
   { name: 'Fried Grilled Pork Rib', desc: 'Small-large', price: '36000 MMK-45000 MMK', img: '' },
   { name: 'Fried Pork Spare Rib', desc: 'Small-large', price: '29000 MMK-36000 MMK', img: '' },
   { name: 'Prawn Tempura', desc: 'Small-large', price: '25000 MMK-30000 MMK', img: '' },
   { name: 'Fried Potato with Prawn', desc: 'Small-large', price: '28000 MMK-40000 MMK', img: '' },
 
 ];
+
 
