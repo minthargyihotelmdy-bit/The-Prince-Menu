@@ -9,7 +9,7 @@ window.menusPartials['international'].whiskey = [
   { name: 'Double Black 1Liter', desc: '', price: '320000 MMK', img: '' },
   { name: 'Gold Label 1Liter', desc: '', price: '420000 MMK', img: '' },
   { name: 'Gold Label 75cl', desc: '', price: '300000 MMK', img: '' },
-  { name: 'Black Label 1Liter', desc: '', price: '240000 MMK', img: '' },
+  { name: 'Black Label 1Liter', desc: '', price: '255000 MMK', img: '' },
   { name: 'Black Label 75cl', desc: '', price: '205000 MMK', img: '' },
   { name: 'Black Label 37.5cl', desc: '', price: '120000 MMK', img: '' },
   { name: 'Red Label 1Liter', desc: '', price: '145000 MMK', img: '' },
@@ -24,4 +24,5 @@ window.menusPartials['international'].whiskey = [
 
   
 ];
+
 
