@@ -22,10 +22,11 @@ window.menusPartials['myanmar'].onepotion = [
   { name: 'ပြည်ကြီးငါးသုပ်+ထမင်းဖြူ', desc: '', price: '18500 MMK', img: '' },
   { name: 'ပြည်ကြီးငါးချဉ်စပ်+ထမင်းဖြူ', desc: '', price: '18500 MMK', img: '' },
   { name: 'ပြည်ကြီးငါးကုန်းဘောင်+ထမင်းဖြူ', desc: '', price: '18500 MMK', img: '' },
-  { name: 'ဆိတ်သားတုံးကြော်+ထမင်းဖြူ', desc: '', price: '15000 MMK', img: '' },
-  { name: 'ဆိတ်ခပတ်+ထမင်းဖြူ', desc: '', price: '15000 MMK', img: '' },
+  { name: 'ဆိတ်သားတုံးကြော်+ထမင်းဖြူ', desc: '', price: '18000 MMK', img: '' },
+  { name: 'ဆိတ်ခပတ်+ထမင်းဖြူ', desc: '', price: '18000 MMK', img: '' },
   { name: 'အမဲသားပင်စိမ်း+ထမင်းဖြူ', desc: '', price: '16000 MMK', img: '' },
   
 
   
 ];
+
