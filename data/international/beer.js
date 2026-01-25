@@ -7,7 +7,7 @@ window.menusPartials['international'].beer = [
   { name: 'ABC bot', desc: '', price: '10000 MMK', img: '' },
   { name: 'ABC Can', desc: '', price: '7800 MMK', img: '' },
   { name: 'Tiger Bot', desc: '', price: '8000 MMK', img: '' },
-  { name: 'Tiger Can', desc: '', price: '6000 MMK', img: '' },
+  { name: 'Tiger Can', desc: '', price: '6600 MMK', img: '' },
   { name: 'Myanmar Bot', desc: '', price: '5500 MMK', img: '' },
   { name: 'Chang Bot', desc: '', price: '5000 MMK', img: '' },
   { name: 'SPY', desc: '', price: '14000 MMK', img: '' },
@@ -19,3 +19,4 @@ window.menusPartials['international'].beer = [
   { name: 'Red Cow Chese', desc: '', price: '4300 MMK', img: '' },
 
 ];
+
