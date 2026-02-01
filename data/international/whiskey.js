@@ -16,7 +16,7 @@ window.menusPartials['international'].whiskey = [
   { name: 'Red Label 75cl', desc: '', price: '130000 MMK', img: '' },
   { name: 'Red Label 37.5cl', desc: '', price: '75000 MMK', img: '' },
   { name: 'Ballantines 75cl', desc: '', price: '160000 MMK', img: '' },
-  { name: 'Jack Dainell 1Liter', desc: '', price: '155000 MMK', img: '' },
+  { name: 'Jack Dainell 1Liter', desc: '', price: '162000 MMK', img: '' },
   { name: 'Sir Edward 1Liter', desc: '', price: '102500 MMK', img: '' },
   { name: 'Fortant Wine', desc: '', price: '70000 MMK', img: '' },
   { name: 'Ayethaya Wine', desc: '', price: '46000 MMK', img: '' },
@@ -24,5 +24,6 @@ window.menusPartials['international'].whiskey = [
 
   
 ];
+
 
 
