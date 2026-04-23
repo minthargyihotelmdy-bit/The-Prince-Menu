@@ -2,14 +2,14 @@
 window.menusPartials = window.menusPartials || {};
 window.menusPartials['myanmar'] = window.menusPartials['myanmar'] || {};
 window.menusPartials['myanmar'].yunan= [
-  { name: 'ရသာစုံဝက်စတူး', desc: '', price: '43000 MMK', img: '' },
-  { name: 'ငါးခူးမွကြော်သုပ်', desc: '', price: '28000 MMK', img: '' },
-  { name: 'ပုဇွန်ခဲပတ်', desc: '', price: '32000 MMK', img: 'images/15-Yunan/PSKP.jpg' },
-  { name: 'ယူနန်ဝက်စတူး', desc: '', price: '43000 MMK', img: '' },
-  { name: 'ဝက်သုံးထပ်သားစီချွမ်', desc: '', price: '34500 MMK', img: '' },
-  { name: 'ယူနန်စတိုင်ကြက်ခြေအော်စွန်းသုပ်', desc: '', price: '23000 MMK', img: '' },
-  { name: 'ဇာမနီကြက်ကြော်', desc: '', price: '40000 MMK', img: '' },
-  { name: 'ငါးရှဉ့်မာလာမကျီးဆော့', desc: '', price: '19000 MMK', img: '' },
+  { name: 'ရသာစုံဝက်စတူး', desc: '', price: '52000 MMK', img: '' },
+  { name: 'ငါးခူးမွကြော်သုပ်', desc: '', price: '34000 MMK', img: '' },
+  { name: 'ပုဇွန်ခဲပတ်', desc: '', price: '39000 MMK', img: 'images/15-Yunan/PSKP.jpg' },
+  { name: 'ယူနန်ဝက်စတူး', desc: '', price: '52000 MMK', img: '' },
+  { name: 'ဝက်သုံးထပ်သားစီချွမ်', desc: '', price: '42000 MMK', img: '' },
+  { name: 'ယူနန်စတိုင်ကြက်ခြေအော်စွန်းသုပ်', desc: '', price: '30000 MMK', img: '' },
+  { name: 'ဇာမနီကြက်ကြော်', desc: '', price: '48000 MMK', img: '' },
+  { name: 'ငါးရှဉ့်မာလာမကျီးဆော့', desc: '', price: '22000 MMK', img: '' },
   { name: 'ဆေးဘဲဥ အော်ဇွန်းသုပ် ထိုင်းစတိုင်', desc: '', price: '15000 MMK', img: '' },
   { name: 'ခရမ်းသီး ပဲတောင့်ရှည် စီးချွမ်းစတိုင်', desc: '', price: '10000 MMK', img: '' },
   { name: 'အပ်မှိုထောင်းသက်သက်လွတ်', desc: '', price: '15000 MMK', img: '' },
